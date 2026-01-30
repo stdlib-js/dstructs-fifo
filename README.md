@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import fifo from 'https://cdn.jsdelivr.net/gh/stdlib-js/dstructs-fifo@deno/mod.js';
+import fifo from 'https://cdn.jsdelivr.net/gh/stdlib-js/dstructs-fifo@v0.1.0-deno/mod.js';
 ```
 
 #### fifo()
@@ -269,7 +269,7 @@ var o = queue.toJSON();
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import fifo from 'https://cdn.jsdelivr.net/gh/stdlib-js/dstructs-fifo@deno/mod.js';
+import fifo from 'https://cdn.jsdelivr.net/gh/stdlib-js/dstructs-fifo@v0.1.0-deno/mod.js';
 
 // Create a new FIFO queue:
 var queue = fifo();
