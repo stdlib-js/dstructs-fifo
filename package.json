@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/dstructs-fifo",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "First-in-first-out (FIFO) queue.",
   "license": "Apache-2.0",
   "author": {
@@ -78,7 +78,6 @@
     "first-out",
     "fifo"
   ],
-  "__stdlib__": {},
   "funding": {
     "type": "opencollective",
     "url": "https://opencollective.com/stdlib"
